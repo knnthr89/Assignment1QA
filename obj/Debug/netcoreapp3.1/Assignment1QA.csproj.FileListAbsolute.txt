@@ -1,0 +1,12 @@
+/Users/kennethrizo/Documents/vs-projects/Assignment1QA/bin/Debug/netcoreapp3.1/Assignment1QA.deps.json
+/Users/kennethrizo/Documents/vs-projects/Assignment1QA/bin/Debug/netcoreapp3.1/Assignment1QA.runtimeconfig.json
+/Users/kennethrizo/Documents/vs-projects/Assignment1QA/bin/Debug/netcoreapp3.1/Assignment1QA.runtimeconfig.dev.json
+/Users/kennethrizo/Documents/vs-projects/Assignment1QA/bin/Debug/netcoreapp3.1/Assignment1QA.dll
+/Users/kennethrizo/Documents/vs-projects/Assignment1QA/bin/Debug/netcoreapp3.1/Assignment1QA.pdb
+/Users/kennethrizo/Documents/vs-projects/Assignment1QA/obj/Debug/netcoreapp3.1/Assignment1QA.csprojAssemblyReference.cache
+/Users/kennethrizo/Documents/vs-projects/Assignment1QA/obj/Debug/netcoreapp3.1/Assignment1QA.AssemblyInfoInputs.cache
+/Users/kennethrizo/Documents/vs-projects/Assignment1QA/obj/Debug/netcoreapp3.1/Assignment1QA.AssemblyInfo.cs
+/Users/kennethrizo/Documents/vs-projects/Assignment1QA/obj/Debug/netcoreapp3.1/Assignment1QA.csproj.CoreCompileInputs.cache
+/Users/kennethrizo/Documents/vs-projects/Assignment1QA/obj/Debug/netcoreapp3.1/Assignment1QA.dll
+/Users/kennethrizo/Documents/vs-projects/Assignment1QA/obj/Debug/netcoreapp3.1/Assignment1QA.pdb
+/Users/kennethrizo/Documents/vs-projects/Assignment1QA/obj/Debug/netcoreapp3.1/Assignment1QA.genruntimeconfig.cache

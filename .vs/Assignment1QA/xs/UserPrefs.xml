@@ -1,15 +1,16 @@
 ﻿<Properties StartupConfiguration="{5062362B-1120-4F17-9DE4-FB6951735426}|Default">
   <MonoDevelop.Ide.ItemProperties.Assignment1QA FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Program.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Rectangle.cs">
     <Files>
       <File FileName="Program.cs" Line="1" Column="1" />
+      <File FileName="Rectangle.cs" Line="11" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="Assignment1QA" expanded="True">
             <Node name="Assignment1QA" expanded="True">
-              <Node name="Program.cs" selected="True" />
+              <Node name="Rectangle.cs" selected="True" />
             </Node>
           </Node>
         </State>
