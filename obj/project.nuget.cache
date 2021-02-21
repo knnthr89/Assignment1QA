@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "Ld3ZJejsstdv8c+v0d6MFzK8yIIlJu/F0eR8+piNOnBzDxAyHr1HxoHVyzZnbShg9uNK4UEwtPXj+G/DpTd4/g==",
+  "dgSpecHash": "NhCPmOjzvF4znnNregxSiD8Fe53+xoJ70d7p+avKGkmPfvFnJPuqFhhO7BHhS6coHDDgnLDSDEnjhEk6wC9Wag==",
   "success": true,
   "projectFilePath": "/Users/kennethrizo/Documents/vs-projects/Assignment1QA/Assignment1QA.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/Users/kennethrizo/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "/Users/kennethrizo/.nuget/packages/netstandard.library/2.0.0/netstandard.library.2.0.0.nupkg.sha512",
+    "/Users/kennethrizo/.nuget/packages/nunit/3.12.0/nunit.3.12.0.nupkg.sha512"
+  ],
   "logs": []
 }
